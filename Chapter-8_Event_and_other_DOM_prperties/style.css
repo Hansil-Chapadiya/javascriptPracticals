@@ -1,0 +1,34 @@
+.yellow {
+    color: yellow;
+    background-color: black;
+}
+
+.red {
+    color: red;
+    background-color: black;
+}
+
+.text-light {
+    color: rgb(251, 250, 249);
+}
+
+.container-bulb {
+    background-color: yellow;
+
+}
+
+.bulb {
+    border-radius: 500px;
+    height: 400px;
+    width: 400px;
+}
+
+.pole-bulb {
+    background-color: brown;
+    margin-left: 95px;
+}
+
+.pole {
+    height: 200px;
+    width: 200px;
+}
