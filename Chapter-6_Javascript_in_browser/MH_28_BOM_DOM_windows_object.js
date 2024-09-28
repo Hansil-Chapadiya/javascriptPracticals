@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
     window.console.log(window)
     console.log(document.body)
     document.body.style.background = "yellow"
-    location.href("www.google.com")
+    // location.href= "www.google.com"
 });
 
 // window.console.log()
