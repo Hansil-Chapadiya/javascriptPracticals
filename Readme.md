@@ -18,13 +18,13 @@ Before you begin, ensure you have the following installed:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/javascript-practicals.git
+    git clone https://github.com/Hansil-Chapadiya/javascriptPracticals.git
     ```
 
 2. Navigate to the project folder:
 
     ```bash
-    cd javascript-practicals
+    cd javascriptPracticals
     ```
 
 3. Install dependencies:
