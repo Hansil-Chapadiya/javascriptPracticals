@@ -26,5 +26,5 @@ const dict = {
     good:'better',
     bad:'worse'
 }
-
+// dict.good = 'best'
 console.log(dict.good)
